@@ -1,4 +1,4 @@
-# Time Series Analysis
+# Temperature Forecasting using Time Series Methods
 Climate change has impacted the coffee production in Brazil, the world's largest coffee
 producer. Arabica, the most popular variety of coffee, is under the risk of declining yield
 and quality due to global changes in temperature. Temperatures between 18°C and 22°C is
